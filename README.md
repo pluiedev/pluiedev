@@ -7,7 +7,7 @@ I currently develop Minecraft mods, of my own and with [@ReMod-Studios](https://
 
 - :book: **I like and often use** Kotlin, Rust and Ruby; I sometimes use Java for modding stuff but I think Kotlin's a lot better.
 
-- 📫 **How to reach me:** via Discord `leocth#3409` (friend requests and DMs open), or my email linked in the profile page
+- 📫 **How to reach me:** via Discord `leocth#3409` (friend requests and DMs open), or my email linked in the profile page (I don't check that often though)
 
 - 😄 **Pronouns:** he/him
 
