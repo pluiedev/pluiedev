@@ -1,7 +1,7 @@
 ### Hi there 👋
 I currently develop Minecraft mods, of my own and with [@ReMod-Studios](https://github.com/ReMod-Studios) and [@alphaqu](https://github.com/alphaqu)
 
-- 🔭 **I’m currently working on** [Luminous Depths](https://github.com/ReMod-Studios/lumidep-java) and [datakenesis](https://github.com/ReMod-Studios/datakenesis) for [ReMod](https://github.com/ReMod-Studios), and a secret™ project with [@alphaqu](https://github.com/alphaqu)
+- 🔭 **I’m currently working on** [Luminous Depths](https://github.com/ReMod-Studios/lumidep-java) and [datakenesis](https://github.com/ReMod-Studios/datakenesis) for [ReMod](https://github.com/ReMod-Studios), and [DashLoader](https://github.com/alphaqu/DashLoader) with [@alphaqu](https://github.com/alphaqu)
 
 - 🌱 **I’m currently learning** the dark wizardry of advanced Rust and repulsive hacks with JVMs
 
@@ -10,6 +10,10 @@ I currently develop Minecraft mods, of my own and with [@ReMod-Studios](https://
 - 📫 **How to reach me:** via Discord `leocth#3409` (friend requests and DMs open), or my email linked in the profile page (I don't check that often though)
 
 - 😄 **Pronouns:** he/him
+
+- 🕙 **Timezone:** China Standard Time (UTC+8)
+
+- 🗨️ **Languages I speak/use:** English/简体中文
 
 - ⚡ Fun fact: this page took me like 15 minutes to fill out
 
