@@ -1,5 +1,5 @@
 ### Hi there 👋
-I currently develop Minecraft mods, of my own and with [@ReMod-Studios](https://github.com/ReMod-Studios) and [@alphaqu](https://github.com/alphaqu)
+I currently develop Minecraft mods and indie games, of my own and with [@ReMod-Games](https://github.com/ReMod-Games)
 
 - 🔭 **I’m currently working on** my own mods (see pinned) and [DashLoader](https://github.com/alphaqu/DashLoader) with [@alphaqu](https://github.com/alphaqu)
 
