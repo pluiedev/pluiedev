@@ -1,7 +1,7 @@
 ### Hi there 👋
-I currently develop Minecraft mods and indie games, of my own and with [@ReMod-Games](https://github.com/ReMod-Games)
+I code things.
 
-- 🔭 **I’m currently working on** my own mods (see pinned) and [DashLoader](https://github.com/alphaqu/DashLoader) with [@alphaqu](https://github.com/alphaqu)
+- 🔭 **I’m currently working on** Minecraft mods and indie games, of my own and with [@ReMod-Games](https://github.com/ReMod-Games) and [@QuantumFusionMC](https://github.com/QuantumFusionMC)
 
 - 🌱 **I’m currently learning** the dark wizardry of advanced Rust and repulsive hacks with JVMs
 
