@@ -30,6 +30,6 @@ Procrastinator.
     - Tier E: C
     - Tier F: JavaScript
 
-- ⚡ Fun fact: TypeScript is just JavaScript done correctly change my mind.
+- ⚡ Fun fact: TypeScript is just JavaScript done correctly [change my mind](https://github.com/LeoCTH/ama/discussions).
 
 <!-- this template sucks. -->
