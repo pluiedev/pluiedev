@@ -9,27 +9,25 @@ Procrastinator.
 
 ---
 
-- 🔭 **I’m currently working on** Minecraft mods, indie games, and [totally unhelpful guides](https://github.com/leocth/tips-and-tricks)
+- 🔭 **I’m currently working on** random Rust projects, including [this experimental Minecraft server](https://github.com/leocth/hieronymusv2).
 
-- 🌱 **I’m currently learning** functional and monadic wizardry with Haskell and how to boot OOP out of my head when writing Rust
+- 🌱 **I’m currently learning** advanced async Rust, GATs and HKTs
 
 - 📫 **How to reach me:**
     - My Discord server where I hang out and post updates: [here](https://discord.gg/NeNfePzCx8)
 
-- 😄 **Pronouns:** he/him, they/them is fine too
+- 😄 **Pronouns:** he/him, they/them is fine too [[see more]](https://pronouns.page/@leocth31)
 
 - 🕙 **Timezone:** 🇨🇳 (UTC+8)
 
 - 🗨️ **Languages I speak/use:** English/简体中文
 
 - 📖 **Programming Language Tier List**:
-    - Tier A: Rust :crab:, Kotlin, Ruby
-    - Tier B: TypeScript, Python, C#
-    - Tier C: Haskell, Java, Scala
-    - Tier D: Objective-C, C++, Perl
-    - Tier E: C
-    - Tier F: JavaScript
-
-- ⚡ Fun fact: TypeScript is just JavaScript done correctly [change my mind](https://github.com/LeoCTH/ama/discussions).
+    - Tier S: Rust :crab:, Kotlin, TypeScript
+    - Tier A: C#, Ruby, Crystal
+    - Tier B: Haskell, Java, Scala, Python
+    - Tier C: Objective-C, C++, Perl
+    - Tier D: C
+    - Tier E: JavaScript
 
 <!-- this template sucks. -->
