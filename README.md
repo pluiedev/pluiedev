@@ -7,9 +7,9 @@ Hi, I theoretically program occasionally.
 
 - 🌱 **I’m currently learning** Rust proc macros
 
-- 📫 **How to reach me:** see [here](https://linktr.ee/leocth)
+- 📫 **How to reach me:** [see my Linktree page](https://linktr.ee/leocth)
 
-- 😄 **Pronouns:** he/they/she [[pronouns.page]](https://pronouns.page/@leocth31)
+- 😄 **Pronouns:** I prefer he/they, she is also acceptable [[pronouns.page]](https://pronouns.page/@leocth31)
 
 - 🕙 **Timezone:** 🇨🇳 (UTC+8)
 
