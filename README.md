@@ -1,19 +1,21 @@
-### Hoi fro' yonder 👋
-Hi, I theoretically program occasionally.
+## Hoi fro' yonder 👋
+This is the system account for the Dichotomy System, a small plural system consisting of
+two members: Leo (he/they/she) and Leah (she/her).
+
+Most of the code you'll be seeing here comes from Leo, but Leah will be aiding with our site too.
+Check out some of our projects below!
 
 ---
 
-- 🔭 **I’m currently working on** random Rust projects
+- 🔭 **We’re currently working on** [`messloc`](https://github.com/messloc/messloc) and other miscellaneous projects
 
-- 🌱 **I’m currently learning** Rust proc macros
+- 🌱 **We’re currently learning** advanced unsafe Rust, purely functional programming (e.g. Haskell), etc.
 
-- 📫 **How to reach me:** [see my Linktree page](https://linktr.ee/leocth)
-
-- 😄 **Pronouns:** I prefer he/they, she is also acceptable [[pronouns.page]](https://pronouns.page/@leocth31)
+- 📫 **How to reach us:** [check out our site!](https://linktr.ee/leocth)
 
 - 🕙 **Timezone:** 🇨🇳 (UTC+8)
 
-- 🗨️ **Languages I speak/use:** English/简体中文
+- 🗨️ **Languages we speak/use:** English/简体中文
 
 [![stats](https://github-readme-stats.vercel.app/api?username=leocth&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
