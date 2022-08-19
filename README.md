@@ -1,21 +1,21 @@
 ## Hoi fro' yonder 👋
-This is the system account for the Dichotomy System, a small plural system consisting of
-two members: Leo (he/they/she) and Leah (she/her).
+I code stuff, sometimes?? Mostly in Rust and Kotlin
 
-Most of the code you'll be seeing here comes from Leo, but Leah will be aiding with our site too.
-Check out some of our projects below!
+🏳️‍⚧️
 
 ---
 
-- 🔭 **We’re currently working on** [`messloc`](https://github.com/messloc/messloc) and other miscellaneous projects
+- 🔭 **I'm currently working on** various projects with [QuiltMC](https://github.com/QuiltMC/)
 
-- 🌱 **We’re currently learning** advanced unsafe Rust, purely functional programming (e.g. Haskell), etc.
+- 🌱 **I'm currently learning** frontend frameworks, best practices and a11y guidelines
 
-- 📫 **How to reach us:** [check out our site!](https://linktr.ee/leocth)
+- 📫 **How to contact me:** [check out my site!](https://leocth.github.imo)
 
 - 🕙 **Timezone:** 🇨🇳 (UTC+8)
 
-- 🗨️ **Languages we speak/use:** English/简体中文
+- 🗣 **Pronouns:** she/her 🏳️‍⚧️
+
+- 🗨️ **Languages I speak/use:** English/简体中文
 
 [![stats](https://github-readme-stats.vercel.app/api?username=leocth&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
