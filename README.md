@@ -1,24 +1,11 @@
-## Hoi fro' yonder 👋
-I code stuff, sometimes?? Mostly in Rust and Kotlin
+# 👋👩‍💻
 
-🏳️‍⚧️
+(I have a *very* long introduction [over on my website](https://pluie.me), so I'll be brief here:)
 
----
+*Heya~!* I'm **Leah (she/her)**, a Chinese open-source developer who is interested in making the world of digital technology and design more accessible and inclusive for everyone, but often ends up making silly programs and utilities for her own entertainment ~~and masochist desires~~, or well, just procrastinating as usual.
 
-- 🔭 **I'm currently working on** various projects with [QuiltMC](https://github.com/QuiltMC/)
+I code primarily in [Rust](https://rust-lang.org), [Kotlin](https://kotlinlang.org), and [TypeScript](https://typescriptlang.org) for my web development projects, such as [my personal website](https://pluie.me) and [Quilt's main website](https://github.com/QuiltMC/quiltmc.org), of which I'm also Community Manager. I also [ported the Linux package conversion utility, `alien`, to Rust](https://github.com/pluiedev/alien), and if you dig deep enough you can find the old Minecraft mods I made. To be honest, they're not as exciting as my other projects.
 
-- 🌱 **I'm currently learning** frontend frameworks, best practices and a11y guidelines
-
-- 📫 **How to contact me:** [check out my site!](https://leocth.github.imo)
-
-- 🕙 **Timezone:** 🇨🇳 (UTC+8)
-
-- 🗣 **Pronouns:** she/her 🏳️‍⚧️
-
-- 🗨️ **Languages I speak/use:** English, 简体中文
-
-[![stats](https://github-readme-stats.vercel.app/api?username=pluiedev&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluiedev&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- this template sucks. -->
+A couple of closing words:
+I use Fedora, not Arch, BTW.
+Also: trans rights! 🏳️‍⚧️
